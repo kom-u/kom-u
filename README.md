@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @atqamz
-- 🌱 I’m currently learning Web Programming and Game Developing
+- 🌱 I’m currently learning Web and Game Development
